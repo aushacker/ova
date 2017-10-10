@@ -1,0 +1,4 @@
+#
+# Ignore Maven work files.
+#
+target/
